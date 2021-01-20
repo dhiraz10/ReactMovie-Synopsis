@@ -1,0 +1,25 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Open- "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+		"Lucida Sans", Arial, sans-serif;
+}
+html {
+	font-family: "Poppins", sans-serif;
+}
+body {
+	background: linear-gradient(
+		to right top,
+		#051937,
+		#004d7a,
+		#008793,
+		#00bf72,
+		#a8eb12
+	) !important;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
