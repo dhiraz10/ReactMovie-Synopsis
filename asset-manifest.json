@@ -1,0 +1,35 @@
+{
+  "files": {
+    "static/js/0.df3b2aa7.chunk.js": "/ReactMovie-Synopsis/static/js/0.df3b2aa7.chunk.js",
+    "static/js/0.df3b2aa7.chunk.js.map": "/ReactMovie-Synopsis/static/js/0.df3b2aa7.chunk.js.map",
+    "main.css": "/ReactMovie-Synopsis/static/css/main.bb646391.chunk.css",
+    "main.js": "/ReactMovie-Synopsis/static/js/main.255831ab.chunk.js",
+    "main.js.map": "/ReactMovie-Synopsis/static/js/main.255831ab.chunk.js.map",
+    "runtime-main.js": "/ReactMovie-Synopsis/static/js/runtime-main.d3a901ab.js",
+    "runtime-main.js.map": "/ReactMovie-Synopsis/static/js/runtime-main.d3a901ab.js.map",
+    "static/css/3.20aa2d7b.chunk.css": "/ReactMovie-Synopsis/static/css/3.20aa2d7b.chunk.css",
+    "static/js/3.51bfc38d.chunk.js": "/ReactMovie-Synopsis/static/js/3.51bfc38d.chunk.js",
+    "static/js/3.51bfc38d.chunk.js.map": "/ReactMovie-Synopsis/static/js/3.51bfc38d.chunk.js.map",
+    "static/css/4.3e1f6f41.chunk.css": "/ReactMovie-Synopsis/static/css/4.3e1f6f41.chunk.css",
+    "static/js/4.4eab58e4.chunk.js": "/ReactMovie-Synopsis/static/js/4.4eab58e4.chunk.js",
+    "static/js/4.4eab58e4.chunk.js.map": "/ReactMovie-Synopsis/static/js/4.4eab58e4.chunk.js.map",
+    "static/js/5.97f047bf.chunk.js": "/ReactMovie-Synopsis/static/js/5.97f047bf.chunk.js",
+    "static/js/5.97f047bf.chunk.js.map": "/ReactMovie-Synopsis/static/js/5.97f047bf.chunk.js.map",
+    "static/js/6.d695ab8d.chunk.js": "/ReactMovie-Synopsis/static/js/6.d695ab8d.chunk.js",
+    "static/js/6.d695ab8d.chunk.js.map": "/ReactMovie-Synopsis/static/js/6.d695ab8d.chunk.js.map",
+    "index.html": "/ReactMovie-Synopsis/index.html",
+    "static/css/3.20aa2d7b.chunk.css.map": "/ReactMovie-Synopsis/static/css/3.20aa2d7b.chunk.css.map",
+    "static/css/4.3e1f6f41.chunk.css.map": "/ReactMovie-Synopsis/static/css/4.3e1f6f41.chunk.css.map",
+    "static/css/main.bb646391.chunk.css.map": "/ReactMovie-Synopsis/static/css/main.bb646391.chunk.css.map",
+    "static/js/3.51bfc38d.chunk.js.LICENSE.txt": "/ReactMovie-Synopsis/static/js/3.51bfc38d.chunk.js.LICENSE.txt",
+    "static/js/4.4eab58e4.chunk.js.LICENSE.txt": "/ReactMovie-Synopsis/static/js/4.4eab58e4.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/ReactMovie-Synopsis/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3a901ab.js",
+    "static/css/3.20aa2d7b.chunk.css",
+    "static/js/3.51bfc38d.chunk.js",
+    "static/css/main.bb646391.chunk.css",
+    "static/js/main.255831ab.chunk.js"
+  ]
+}
