@@ -1,4 +1,5 @@
 import styled from "styled-components";
+
 export const HomeWrapper = styled.div `
 .slick-arrow{
     background: rgba( 255, 255, 255, 0.25 );
@@ -44,7 +45,7 @@ align-items: center;
 
 `;
 export const Section = styled.section`
-background: url('img/movie.jpg') center;
+background: url('ReactMovie-Synopsis/Img/movie.jpg') center;
 background-size:cover;
 height: 100vh;
 display: flex;
@@ -55,7 +56,7 @@ align-items: center;
 
 
 export const Section2 = styled.section`
-background: url('img/watch.jpg') center;
+background: url('ReactMovie-Synopsis/Img/watch.jpg') center;
 background-size:cover;
 height: 100vh;
 display: flex;
@@ -64,7 +65,7 @@ align-items: center;
 /* margin-top: 70px; */
 `;
 export const Section3 = styled.section`
-background: url('img/top.jpg') center;
+background: url('ReactMovie-Synopsis/Img/top.jpg') center;
 background-size:cover;
 height: 100vh;
 display: flex;
