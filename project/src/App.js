@@ -14,7 +14,7 @@ const App = ()=> {
 <React.Suspense fallback={"Loading..."}>
 <Switch>
 
-  <Route path="/"  exact component={Homepage}/>
+  <Route path="/ReactMovie-Synopsis/"  exact component={Homepage}/>
   <Route path="/movies/:id" component={SinglePage} />
 </Switch>
 </React.Suspense>
