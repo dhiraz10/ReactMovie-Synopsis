@@ -32,11 +32,11 @@ const Navbars =()=> {
         <NavWraper scrollNav = {scrollNav}>
         <Container>
         <Navbar expand="lg" fixed="top" className="navbarstyle">
-        <Link to='/ReactMovie-Synopsis/'  className="logo" onClick={toggleHome}  >Movies-Synopsis</Link>
+        <Link to='/ReactMovie-Synopsis'  className="logo" onClick={toggleHome}  >Movies-Synopsis</Link>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">
     <Nav className="ml-auto">
-      <Link to="/ReactMovie-Synopsis/" className="nav-link" onClick={toggleHome}
+      <Link to="/ReactMovie-Synopsis" className="nav-link" onClick={toggleHome}
      >Now Playing</Link>
     <LinkS         activeClass="active"     to="popularmovie" 
                         className="nav-link" 

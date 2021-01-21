@@ -19,7 +19,7 @@ function Footer() {
                </FooterLinksContainer>
                <SocialMedia>
                    <SocialMediaWrap>
-                       <SocialLogo to="/ReactMovie-Synopsis/" onClick={toggleHome}>
+                       <SocialLogo to="/ReactMovie-Synopsis" onClick={toggleHome}>
                                 Movies-Synopsis
                        </SocialLogo>
                        <WebsiteRights>  Movies-Synopsis &#169;  {new Date().getFullYear()} &nbsp; All rights reserved .</WebsiteRights>
