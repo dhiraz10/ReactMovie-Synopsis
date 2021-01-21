@@ -1,0 +1,6 @@
+{
+  "prettier.vueIndentScriptAndStyle": true,
+  "editor.formatOnSave": true,
+  "prettier.endOfLine": "auto",
+  "prettier.singleQuote": true
+}
